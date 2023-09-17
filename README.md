@@ -1,2 +1,2 @@
-# SmallThings
- Some small projects
+# Small Things 🟣
+ Some small C++ projects for my learning 🧑‍💻
